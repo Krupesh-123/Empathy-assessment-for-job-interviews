@@ -9,3 +9,5 @@ This repository consists of two python and python notebook files.
 Eyet4empathy_questionnaire.ipynb - This notebook explores the Eyet4empathy_questionnaire dataset.
 
 eyedata.ipynb - This notebook explores the Eye dataset and uses ML algorithms to perform prediction.
+
+You can start running the cells of python notebook files after uploading the input files as mentioned above in your google drive.
